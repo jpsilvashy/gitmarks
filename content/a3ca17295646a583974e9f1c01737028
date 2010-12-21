@@ -210,7 +210,7 @@
           <li><a href="http://status.github.com">Status</a></li>
         </ul>
         <ul class="sosueme">
-          <li class="main">&copy; 2010 <span id="_rrt" title="0.01776s from fe5.rs.github.com">GitHub</span> Inc. All rights reserved.</li>
+          <li class="main">&copy; 2010 <span id="_rrt" title="0.02239s from fe1.rs.github.com">GitHub</span> Inc. All rights reserved.</li>
           <li><a href="/site/terms">Terms of Service</a></li>
           <li><a href="/site/privacy">Privacy</a></li>
           <li><a href="https://github.com/security">Security</a></li>
@@ -313,7 +313,7 @@
       
     
 
-    <script>window._auth_token = "cda47547ccbd0e03404f3b9d55da72a06cebaf04"</script>
+    <script>window._auth_token = "54c5b273c5009765bda333d334ecfa168ba35776"</script>
     <div id="keyboard_shortcuts_pane" style="display:none">
   <h2>Keyboard Shortcuts</h2>
 
