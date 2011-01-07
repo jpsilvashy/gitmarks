@@ -1,0 +1,118 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xml:lang="en" lang="en" xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta content="text/html;charset=UTF-8" http-equiv="content-type" />
+<meta name="description" content="some meta description" />
+<meta name="keywords" content="some meta keywords" />
+<title>Locomotive &mdash; Ruby on Rails Open source CMS</title>
+
+<link rel="icon" type="image/png " href="http://locomotivehosting.s3.amazonaws.com/sites/4c34fc86cc85f01e47000005/theme/images/favicon.ico" />
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js" type="text/javascript"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.7/jquery-ui.min.js" type="text/javascript"></script>
+
+<link href="http://locomotivehosting.s3.amazonaws.com/sites/4c34fc86cc85f01e47000005/theme/stylesheets/reboot.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="http://locomotivehosting.s3.amazonaws.com/sites/4c34fc86cc85f01e47000005/theme/stylesheets/application.css" media="screen" rel="stylesheet" type="text/css" />
+    
+    <link href="http://locomotivehosting.s3.amazonaws.com/sites/4c34fc86cc85f01e47000005/theme/stylesheets/code_highlighter.css" media="screen" rel="stylesheet" type="text/css" />
+    <script src="http://locomotivehosting.s3.amazonaws.com/sites/4c34fc86cc85f01e47000005/theme/javascripts/code_highlighter/code_highlighter.js" type="text/javascript"></script>
+    <script src="http://locomotivehosting.s3.amazonaws.com/sites/4c34fc86cc85f01e47000005/theme/javascripts/code_highlighter/ruby.js" type="text/javascript"></script>
+    
+    <script src="http://locomotivehosting.s3.amazonaws.com/sites/4c34fc86cc85f01e47000005/theme/javascripts/application.js" type="text/javascript"></script>
+  </head>
+  
+  <body id="installation-page" class="support sidebar">
+    <div id="forkme">
+  <a href="https://github.com/locomotivecms/engine">
+    <img src="http://locomotivehosting.s3.amazonaws.com/sites/4c34fc86cc85f01e47000005/theme/images/forkme.png" />
+  </a>
+</div>
+    
+    <div class="wrapper">
+      <div class="container">
+        <div id="header">
+          <h1><a href="/"><img src="http://locomotivehosting.s3.amazonaws.com/sites/4c34fc86cc85f01e47000005/theme/images/title.jpg" alt="Locomotive"/></a></h1>
+        </div>
+        
+        <div id="support-box">
+          <ul id="nav">
+<li id="installation" class="link on first">
+              <a href="/support/installation">Installation guide</a>
+            </li>
+<li id="themes" class="link ">
+              <a href="/support/themes">Themes</a>
+            </li>
+<li id="howto" class="link ">
+              <a href="/support/howto">How-To's</a>
+            </li>
+<li id="liquid" class="link last">
+              <a href="/support/liquid">Liquid Syntax</a>
+            </li></ul>
+          
+          <div class="inner">
+            <div class="sidebar">
+              
+              <ul id="sidebar-nav">
+<li id="requirements" class="link first">
+              <a href="/support/installation/requirements">Requirements</a>
+            </li>
+<li id="standalone" class="link ">
+              <a href="/support/installation/standalone">From source installation</a>
+            </li>
+<li id="engine" class="link ">
+              <a href="/support/installation/engine">Engine installation</a>
+            </li>
+<li id="heroku" class="link last">
+              <a href="/support/installation/heroku">Heroku deployment</a>
+            </li></ul>
+              
+            </div>
+            
+            <div class="content">
+              <h2>Installation guide</h2>
+              
+              <p>
+                <b><span class="caps">WARNING</span></b>: Locomotive is in beta but already used in production with success. Want a proof ? This website is served by Locomotive !
+              </p>
+              
+              <p>
+                You suggest you to start to read the <a href="/support/installation/requirements">requirements</a> section. Then choose one of the installation methods.<br/> If you want to test Locomotive and sneak into the code, we recommend you the <a href="/support/installation/source">from source</a> installation.
+              </p>
+              
+              <p>
+                Let us know if you have any <a href="http://locomotive.vanillaforums.com/categories/requested-features">suggestions</a> or if you find <a href="http://locomotive.vanillaforums.com/categories/problems">bugs</a>.
+              </p>
+              
+            </div>
+            
+            <div class="clear"></div>
+          </div>
+          
+          <div class="footer">&nbsp;</div>
+        </div>
+        
+        <div id="footer"><p>
+  Locomotive is developed by <a href="http://www.nocoffee.fr" id="nocoffee">NoCoffee</a>. UI and website are designed by <a href="http://www.sachagreif.com">Sacha Greif</a>. Locomotive is free software under the MIT license.
+</p>​</div>
+      </div>
+    </div>
+    
+          <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-17355243-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function() {
+              var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+              ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+              var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+          </script>
+    <script type="text/javascript" src="http://www.observerapp.com/record.js"></script>
+<script type="text/javascript">
+try { Observerapp.record("4cff6834f4f3b9fe3a11eec6"); } catch(e) {};
+</script>
+  </body>
+</html>
